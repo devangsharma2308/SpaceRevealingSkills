@@ -150,7 +150,7 @@ class PandaSim(object):
     # self.box=self.bullet_client.loadURDF("iitd_80cm_box/80cm_box_6.urdf", self.box_pos, box_orn, flags=flags)
     # time.sleep(1000)
 
-    ##########################INITIALIZATION FOR THOMPSON SAMPLING##################################
+    ##########################INITIALIZATION FOR BANDITS##################################
 
     
     self.thomp_start = False
